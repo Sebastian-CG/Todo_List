@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 40px;
+  background: #303030;
+  color: #f0f8ff;
+  font-family: sans-serif, Arial;
+}
+
+div {
+  border: 5px solid red;
+  margin: 20px 0;
+  padding: 1em;
+  text-align: center;
+}
+
+#EDteam {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #b53240;
+}
